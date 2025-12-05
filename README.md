@@ -4,10 +4,8 @@ This repository contains a **complete, production-grade, highly-available three-
 
 Deployed and verified live on **04-Dec-2025** – from zero to fully working in **one command**.
 
-## Resume Bullet (Copy-Paste This – 60–100 LPA Level)
-> Designed and deployed a fully automated three-tier web application on AWS using Terraform IaC featuring custom VPC with 6 subnets across 3 AZs, internet-facing ALB, Auto Scaling Group with dynamic AMI lookup, Multi-AZ RDS MySQL in private subnets, security-group-only database access, S3 remote state with DynamoDB locking — entire stack provisioned in < 6 minutes with `terraform apply -auto-approve`.
 
-## Architecture Overview (Exactly What Companies Run in 2025)
+## Architecture Overview 
 
 Internet
 ↓ (HTTP 80)
